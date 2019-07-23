@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246007339271",
+    "firebase_url": "https://landactivity-650c5.firebaseio.com",
+    "project_id": "landactivity-650c5",
+    "storage_bucket": "landactivity-650c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246007339271:android:ef6d2c7f63e21cac",
+        "android_client_info": {
+          "package_name": "com.example.landactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246007339271-eglb7fjua6g0olc62nkouhfad8gb4ref.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.landactivity",
+            "certificate_hash": "2aab8938c82812129c56d3c8bd4cc9af5be5a9d5"
+          }
+        },
+        {
+          "client_id": "246007339271-7r7ivic9k2fgbsfm2bukjn7odgtbfi7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVn3SvAXZni_frishwddpMXKRL9kVf2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246007339271-7r7ivic9k2fgbsfm2bukjn7odgtbfi7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

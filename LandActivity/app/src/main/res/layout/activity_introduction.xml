@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Introduction"
+    android:background="@drawable/fireimage">
+
+
+    <TextView
+        android:textStyle="bold"
+        android:id="@+id/textView5"
+        android:layout_width="358dp"
+        android:layout_height="568dp"
+        android:layout_weight="1"
+        android:text="Welcome to the app of Ministry of Agriculture and Land Management, nepal . Agriculture is the major sector  of Nepalese economy . It provides employment opportunity to 66 percentage of the total population and contribute about 33 percent in the GDP. Therefore,the development of agriculture is key for the  development of a national economy. The ministry bear overall responsibility for the growth and development of agriculturesector. "/>
+</LinearLayout>
